@@ -16,8 +16,6 @@ AI Engineering student at **Universidad de San Andrés** (Buenos Aires). I build
 | **[PHAROS](https://github.com/lcaminoa/pharos)** | Payment-incident detector (sustained drops in approval rates) built at the NextWave Hackathon 2026 (Yuno × Nauta, supported by OpenAI), 160 builders selected from 800+ applicants. Team project: I built the Next.js frontend for the live incident dashboard; the detector backend is Python. | Python · Next.js · TypeScript | [team repo](https://github.com/lcaminoa/pharos) |
 | **Fuel Injection** | Local-SEO website for a motorcycle workshop with prefilled WhatsApp inquiry flows by make, model and issue. Freelance client work. | Next.js · TypeScript | [fuelinjection.com.ar](https://fuelinjection.com.ar) |
 | **AlphaLab** | Personal quant-research lab for US equities: point-in-time data, cross-sectional ranking, accounting-grade backtesting, and Claude as an analyst through MCP. ~400 tests. Early stage: it validates the plumbing, not alpha. | Python · Next.js · MCP | code private |
-| **[Trama: Victoria](https://github.com/francokir/trama-victoria)** | Original 3D third-person traversal game built solo in Godot 4: swinging, parkour and time trials across a playable university campus, with procedural art and audio. | Godot · GDScript | [repo](https://github.com/francokir/trama-victoria) |
-
 **Machine learning, implemented from scratch** (UdeSA coursework, cleaned up and documented):
 [neural networks](https://github.com/francokir/neural-networks-from-scratch) ·
 [linear regression](https://github.com/francokir/linear-regression-from-scratch) ·
